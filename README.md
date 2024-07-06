@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h1> AR2-D2: Training a Robot without a Robot</h1>
 
- [Jiafei Duan](https://duanjiafei.com/)$^1$, [Yi Ru Wang](https://helen9975.github.io/)$^1$, , [Mohit Shridhar](https://mohitshridhar.com/)$^1$, [Abhimanyu Saighal]$^1$ [Dieter Fox](https://homes.cs.washington.edu/~fox/)$^{1,2}$, , [Ranjay Krishna](https://ranjaykrishna.com/index.html/)$^{1,3}$
+ [Jiafei Duan](https://duanjiafei.com/)$^1$, [Yi Ru Wang](https://helen9975.github.io/)$^1$, , [Mohit Shridhar](https://mohitshridhar.com/)$^1$, [Abhimanyu Saighal]$^1$, [Dieter Fox](https://homes.cs.washington.edu/~fox/)$^{1,2}$, , [Ranjay Krishna](https://ranjaykrishna.com/index.html/)$^{1,3}$
 
 $^1$ University of Washington, $^2$ NVIDIA, $^3$ Allen Institute for AI 
 
@@ -28,19 +28,19 @@ AR2-D2 is a robot demonstrations collection framework in the form of an iOS app 
 
 ❓ If you have any questions, please contact [me](https://duanjiafei.com/) at `duanj1 [at] cs [dot] washington [dot] edu`. ❓
 
-## :open_file_folder: Repository Structure 
-<details open>
-<summary>[Click to view]</summary>
+AR2-D2 APP Download [here](https://drive.google.com/drive/folders/1PTL06ioVaq7OPbKGaonfXC9W0Cv5W7P5?usp=sharing)
+Installation instruction [here](https://docs.google.com/document/d/17PS8zkP4EkMilSVw9wQCFGUU0mUgzD5S5Ya1lV3-hMw/edit?usp=sharing)
 
-```
-Download all the folders [here](https://drive.google.com/drive/folders/1PTL06ioVaq7OPbKGaonfXC9W0Cv5W7P5?usp=sharing)
-Follow the step-by-step instruction [here](https://docs.google.com/document/d/17PS8zkP4EkMilSVw9wQCFGUU0mUgzD5S5Ya1lV3-hMw/edit?usp=sharing) for installation.
-```
-</details>
 
 ## :hammer: AR2-D2 IOS APP Setup
 <details open>
 <summary>[Click to view]</summary>
+
+```
+1. Download all the folders in the  AR2-D2 APP
+2. Follow the step-by-step instructions for installation.
+```
+</details>
 
 
 ## Acknowledgements
