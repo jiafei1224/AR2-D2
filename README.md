@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h1> AR2-D2: Training a Robot without a Robot</h1>
 
- [Jiafei Duan](https://duanjiafei.com/)$^1$, [Yi Ru Wang](https://helen9975.github.io/)$^1$, , [Mohit Shridhar](https://mohitshridhar.com/)$^1$, [Abhimanyu Saighal](https://www.linkedin.com/in/abhimanyu-saighal-926941292)$^1$, [Dieter Fox](https://homes.cs.washington.edu/~fox/)$^{1,2}$, , [Ranjay Krishna](https://ranjaykrishna.com/index.html/)$^{1,3}$
+ [Jiafei Duan](https://duanjiafei.com/)$^1$, [Yi Ru Wang](https://helen9975.github.io/)$^1$, [Mohit Shridhar](https://mohitshridhar.com/)$^1$, [Abhimanyu Saighal](https://www.linkedin.com/in/abhimanyu-saighal-926941292)$^1$, [Dieter Fox](https://homes.cs.washington.edu/~fox/)$^{1,2}$, , [Ranjay Krishna](https://ranjaykrishna.com/index.html/)$^{1,3}$
 
 $^1$ University of Washington, $^2$ NVIDIA, $^3$ Allen Institute for AI 
 
