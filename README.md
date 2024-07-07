@@ -43,6 +43,21 @@ Installation instruction [here](https://docs.google.com/document/d/17PS8zkP4EkMi
 ```
 </details>
 
+## AR2-D2 utils
+1. We have provided two interactive notebooks in the utilities 
+folder - one to generate training data from the app's raw output and one to visualise a particular scene in voxel form
+2. To use the data generation notebook, first organise the app's raw output (i.e., the depth images, rgb images, and text) into folders by episode. There should be one top-level directory and several sub-folders, each corresponding to a given episode, like so:
+    ```
+    SceneName
+    |
+    |__ episode1
+    |    |__ (rgb + depth + text files)
+    |
+    |__ episode2
+        ...
+    ```
+    Note that the sub-folders must follow the naming convention episode{EPISODE_NUMBER}, where {EPISODE_ NUMBER} starts from 1
+3. Once you have generated the training data using the first notebook, you can visualise each episode in voxel form using the second notebook. Simply specify the name of the directory containing the training data and the episode number.
 
 ## Acknowledgements
 
